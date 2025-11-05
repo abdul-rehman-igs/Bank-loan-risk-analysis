@@ -13,3 +13,21 @@ We build a **classification model in R** and then visualize insights through an 
 - Create a **Power BI dashboard** for visual analytics.
 
 ---
+
+## 🧩 Dataset
+**Source:** [Bank Loan Data – Kaggle](https://www.kaggle.com/datasets/udaymalviya/bank-loan-data)
+
+**Description:**
+The dataset contains details about loan applicants, including:
+- Age  
+- Income  
+- Loan Amount  
+- Credit Score  
+- Employment Type  
+- Loan Purpose  
+- Default (Target Variable: 1 = High Risk, 0 = Low Risk)
+
+**Rows:** 45,000+  
+**Columns:** 8–10 (depending on preprocessing)
+
+---
