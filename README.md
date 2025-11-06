@@ -31,3 +31,12 @@ The dataset contains details about loan applicants, including:
 **Columns:** 8–10 (depending on preprocessing)
 
 ---
+
+## 🧠 Tech Stack
+| Tool | Purpose |
+|------|----------|
+| **R** | Data cleaning, preprocessing, modeling |
+| **Power BI** | Visualization and dashboard building |
+| **Libraries Used (R)** | dplyr, caret, ggplot2, randomForest, e1071, ROCR |
+
+---
