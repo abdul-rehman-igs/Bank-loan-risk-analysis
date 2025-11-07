@@ -40,3 +40,17 @@ The dataset contains details about loan applicants, including:
 | **Libraries Used (R)** | dplyr, caret, ggplot2, randomForest, e1071, ROCR |
 
 ---
+
+## ⚙️ Steps Followed
+
+### **Step 1: Data Loading & Exploration**
+- Imported CSV dataset using `readr`  
+- Checked structure, summary statistics, and missing values  
+- Visualized distributions for **age, income, and credit score**
+
+### **Step 2: Data Cleaning & Feature Engineering**
+- Replaced missing numeric values with median  
+- Replaced missing categorical values with mode  
+- Converted text columns to factors  
+- Scaled numeric features using `caret`  
+- Created new feature: `debt_to_income_ratio`
