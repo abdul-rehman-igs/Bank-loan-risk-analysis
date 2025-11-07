@@ -54,3 +54,18 @@ The dataset contains details about loan applicants, including:
 - Converted text columns to factors  
 - Scaled numeric features using `caret`  
 - Created new feature: `debt_to_income_ratio`
+
+### **Step 3: Model Building & Evaluation**
+Built and compared three models:
+- **Logistic Regression**
+- **Decision Tree**
+- **Random Forest**
+
+Evaluated with **accuracy** and **confusion matrix**.  
+The **Random Forest** model achieved the highest performance.
+
+### **Step 4: Power BI Dashboard**
+Exported processed data and results to Power BI:
+- `loan_cleaned_data.csv`  
+- `model_accuracy.csv`  
+- `feature_importance.csv`
