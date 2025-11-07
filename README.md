@@ -69,3 +69,11 @@ Exported processed data and results to Power BI:
 - `loan_cleaned_data.csv`  
 - `model_accuracy.csv`  
 - `feature_importance.csv`
+
+**Dashboard Pages:**
+1. **Overview:** Applicant demographics and risk distribution  
+2. **Risk Analysis:** Income vs credit score patterns  
+3. **Model Performance:** Accuracy comparison & feature importance  
+4. **Interactive Filters:** Explore applicants by age, income, or risk category  
+
+---
