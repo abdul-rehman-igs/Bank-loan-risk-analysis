@@ -77,3 +77,11 @@ Exported processed data and results to Power BI:
 4. **Interactive Filters:** Explore applicants by age, income, or risk category  
 
 ---
+
+## 📊 Key Insights
+- Applicants with **low credit scores** and **high debt-to-income ratios** are more likely to default.  
+- **Income** and **credit score** are the strongest predictors of risk.  
+- **Random Forest** achieved the highest accuracy (~90%+).  
+- Majority of applicants fall in **Low Risk** category.
+
+---
