@@ -85,3 +85,15 @@ Exported processed data and results to Power BI:
 - Majority of applicants fall in **Low Risk** category.
 
 ---
+
+## 📁 Files Included
+| File | Description |
+|------|--------------|
+| `loan_cleaned_data.csv` | Cleaned and preprocessed dataset |
+| `model_accuracy.csv` | Model accuracy comparison |
+| `feature_importance.csv` | Variable importance from Random Forest |
+| `bank_loan_analysis.R` | Full R code for analysis and modeling |
+| `Bank_Loan_Dashboard.pbix` | Power BI dashboard file |
+| `README.md` | Project documentation |
+
+---
